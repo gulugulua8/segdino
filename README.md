@@ -1,5 +1,9 @@
 # SegDINO
 
+> [!IMPORTANT]
+> **New Release:** We have launched [SegDINO-V2](https://github.com/script-Yang/segdino_v2)!
+> This multi-scale enhanced version significantly improves performance, particularly in small lesion segmentation.
+
 [SegDINO: An Efficient Design for Medical and Natural Image Segmentation with DINO-V3](https://arxiv.org/abs/2509.00833)
 
 We propose SegDINO, an efficient image segmentation framework that couples a frozen DINOv3 backbone with a lightweight MLP decoder, achieving state-of-the-art performance on both medical and natural image segmentation tasks while maintaining minimal parameter and computational cost.
